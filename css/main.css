@@ -1,0 +1,14 @@
+.preloader{
+    width: 26%;
+}
+.contenedor-crito {
+    padding: 30px;
+}
+
+.icono {
+    width: 10%;
+}
+
+.nombre-moneda {
+    text-transform: capitalize;
+}
